@@ -8,7 +8,6 @@ public class Dropper : MonoBehaviour
     Rigidbody rigidbody;
     [SerializeField] float timeToWait = 5f;
     // Start is called before the first frame update
-    // 22062022
     void Start()
     {
         renderer = GetComponent<MeshRenderer>();
