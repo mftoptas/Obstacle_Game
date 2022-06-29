@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// comment example
 public class Dropper : MonoBehaviour
 {
     MeshRenderer renderer;
